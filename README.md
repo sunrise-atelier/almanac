@@ -3,16 +3,16 @@ raw
 Almanac readme · MD
 # Almanac
  
-Free, bilingual plug-and-play business tools for small ethnic businesses — POS systems, reservation and waitlist tools, inventory trackers. Built to be deployed on-site, not just published on GitHub.
+Free, bilingual plug-and-play business tools for small AAPI businesses — POS systems, reservation and waitlist tools, inventory trackers. Built to be deployed on-site, not just published on GitHub.
  
 ---
  
 ## What it does
  
 - Free, open-source POS, reservation, and inventory tools
-- Available in English, Mandarin, Cantonese, Japanese, Korean, Tagalog, Vietnamese, and Spanish
+- Available in English, Mandarin, Cantonese, Japanese, Korean, Tagalog, and Vietnamese
 - Designed to be installed, configured, and demonstrated in person by volunteers
-- Targets family-run restaurants, corner stores, and small businesses in OC's ethnic business corridors
+- Targets family-run restaurants, corner stores, and small businesses in AAPI business corridors
 ## Tech stack
  
 - **Frontend** — Next.js, React, TypeScript, Tailwind CSS
@@ -24,7 +24,7 @@ Free, bilingual plug-and-play business tools for small ethnic businesses — POS
 - Node.js 18+
 ### Install
  
-```bash
+```
 git clone https://github.com/sunrise-atelier/almanac
 cd almanac
 npm install
@@ -32,7 +32,7 @@ npm install
  
 ### Run locally
  
-```bash
+```
 npm run dev
 ```
  
