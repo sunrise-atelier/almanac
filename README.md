@@ -10,7 +10,7 @@ Free, bilingual plug-and-play business tools for small ethnic businesses — POS
 ## What it does
  
 - Free, open-source POS, reservation, and inventory tools
-- Available in English, Mandarin, Cantonese, Japanese, Korean, Vietnamese, and Spanish
+- Available in English, Mandarin, Cantonese, Japanese, Korean, Tagalog, Vietnamese, and Spanish
 - Designed to be installed, configured, and demonstrated in person by volunteers
 - Targets family-run restaurants, corner stores, and small businesses in OC's ethnic business corridors
 ## Tech stack
