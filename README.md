@@ -37,7 +37,7 @@ Open [http://localhost:3000](http://localhost:3000).
  
 ## Contributing
  
-See [CONTRIBUTING.md](https://github.com/sunrise-atelier/sunrise-api/blob/main/CONTRIBUTING.md) for guidelines. Bilingual contributors — especially Mandarin, Cantonese, Vietnamese, and Spanish — are especially needed for translation and cultural review. Browse [`good first issue`](../../issues?q=is%3Aopen+label%3A%22good+first+issue%22) to start.
+See [CONTRIBUTING.md](https://github.com/sunrise-atelier/sunrise-api/blob/main/CONTRIBUTING.md) for guidelines. Bilingual contributors are especially needed for translation and cultural review. Browse [`good first issue`](../../issues?q=is%3Aopen+label%3A%22good+first+issue%22) to start.
  
 ---
  
