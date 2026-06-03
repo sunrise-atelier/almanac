@@ -1,6 +1,3 @@
-
-raw
-Almanac readme · MD
 # Almanac
  
 Free, bilingual plug-and-play business tools for small AAPI businesses — POS systems, reservation and waitlist tools, inventory trackers. Built to be deployed on-site, not just published on GitHub.
